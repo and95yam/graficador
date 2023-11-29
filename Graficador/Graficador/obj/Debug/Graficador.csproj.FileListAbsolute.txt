@@ -1,0 +1,10 @@
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.exe.config
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.exe
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.pdb
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.AssemblyReference.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.exe
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.pdb

@@ -1,0 +1,100 @@
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.exe
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.deps.json
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.runtimeconfig.json
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.dll
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.pdb
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.AssemblyReference.cache
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.Form1.resources
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.GenerateResource.cache
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfoInputs.cache
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfo.cs
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.dll
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\refint\Graficador.dll
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.pdb
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.genruntimeconfig.cache
+C:\Users\andy_\Documents\graficador\Graficador\Graficador\obj\Debug\net6.0-windows\ref\Graficador.dll
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.exe
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.deps.json
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.runtimeconfig.json
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.dll
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.pdb
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.AssemblyReference.cache
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.Form1.resources
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.GenerateResource.cache
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfoInputs.cache
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfo.cs
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.CoreCompileInputs.cache
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.dll
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\refint\Graficador.dll
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.pdb
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.genruntimeconfig.cache
+D:\DATOS PC\ONE DRIVE-ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\ref\Graficador.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.exe
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.deps.json
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.runtimeconfig.json
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.pdb
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.AssemblyReference.cache
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.Form1.resources
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.GenerateResource.cache
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfoInputs.cache
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfo.cs
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.CoreCompileInputs.cache
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\refint\Graficador.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.pdb
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.genruntimeconfig.cache
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\ref\Graficador.dll
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.exe
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.deps.json
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.runtimeconfig.json
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.dll
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.pdb
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.AssemblyReference.cache
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.Form1.resources
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.GenerateResource.cache
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfoInputs.cache
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfo.cs
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.CoreCompileInputs.cache
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.dll
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\refint\Graficador.dll
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.pdb
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.genruntimeconfig.cache
+D:\DATOS PC\ONE DRIVE- ESOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\9no\computacion cientifica\Graficador\Graficador\obj\Debug\net6.0-windows\ref\Graficador.dll
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.exe
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.deps.json
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.runtimeconfig.json
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.dll
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.pdb
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.Form1.resources
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.GenerateResource.cache
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfoInputs.cache
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfo.cs
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.CoreCompileInputs.cache
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.dll
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\refint\Graficador.dll
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.pdb
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.genruntimeconfig.cache
+D:\DATOS PC\One Drive ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\ref\Graficador.dll
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.exe
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.deps.json
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.runtimeconfig.json
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.dll
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\bin\Debug\net6.0-windows\Graficador.pdb
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.Form1.resources
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.GenerateResource.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfoInputs.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.AssemblyInfo.cs
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.dll
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\refint\Graficador.dll
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.pdb
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\Graficador.genruntimeconfig.cache
+C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\Graficador\obj\Debug\net6.0-windows\ref\Graficador.dll
