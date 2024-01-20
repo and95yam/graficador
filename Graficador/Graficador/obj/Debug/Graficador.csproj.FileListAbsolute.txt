@@ -8,3 +8,23 @@ C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Grafic
 C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.CoreCompileInputs.cache
 C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.exe
 C:\Users\andy_\Documents\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.pdb
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.exe.config
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.exe
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.pdb
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.AssemblyReference.cache
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.cache
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.CoreCompileInputs.cache
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.exe
+D:\DATOS PC\ONE DRIVE ESPOCH\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.pdb
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.exe.config
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.exe
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\bin\Debug\Graficador.pdb
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.AssemblyReference.cache
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.cache
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.csproj.CoreCompileInputs.cache
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.exe
+C:\Users\andy_\OneDrive\Documentos\nuevo graficador\Graficador\Graficador\obj\Debug\Graficador.pdb

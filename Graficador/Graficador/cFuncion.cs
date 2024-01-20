@@ -31,6 +31,12 @@ namespace Graficador
             sy = (int)(((y - y2) / (y2 - y1)) * (sy1 - sy2)) + sy1;
         }
 
-        
+        public void VReal(int sx, int sy, out double x, out double y)
+        {
+            x = (((sx - sx1) / (sx1 - sx2)) * (x1 - x2)) + x1;
+            y = (((sy - sy1) / (sy1 - sy2)) * (y2 - y1)) + y2;
+
+        }
+
     }
 }

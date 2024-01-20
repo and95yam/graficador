@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9jNel/Xb9xEuTA4Sojl103SFrbsHnbBTRIgZzHbJw17S3CuDvmZiGueJZE9JE404HPDnYsuUxLxOp/QiwwPlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andy_\\OneDrive\\Documentos\\nuevo graficador\\WinFormsAppPractica1\\WinFormsAppPractica1\\WinFormsAppPractica1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

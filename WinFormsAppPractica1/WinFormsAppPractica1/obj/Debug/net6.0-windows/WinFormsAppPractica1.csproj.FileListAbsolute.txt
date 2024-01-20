@@ -1,0 +1,94 @@
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.exe
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.deps.json
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.runtimeconfig.json
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.AssemblyReference.cache
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfoInputs.cache
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfo.cs
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.CoreCompileInputs.cache
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.genruntimeconfig.cache
+C:\Users\PIERO\source\repos\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\ref\WinFormsAppPractica1.dll
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.exe
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.deps.json
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.runtimeconfig.json
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.dll
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.AssemblyReference.cache
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfoInputs.cache
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfo.cs
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.CoreCompileInputs.cache
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.genruntimeconfig.cache
+D:\noveno\compucientifica\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\ref\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.deps.json
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfoInputs.cache
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfo.cs
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.CoreCompileInputs.cache
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\andy_\OneDrive\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\ref\WinFormsAppPractica1.dll
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.deps.json
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.dll
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.AssemblyReference.cache
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfoInputs.cache
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfo.cs
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.CoreCompileInputs.cache
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+D:\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\ref\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.deps.json
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.AssemblyReference.cache
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfoInputs.cache
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfo.cs
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\andy_\Desktop\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\ref\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.deps.json
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\bin\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfoInputs.cache
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.AssemblyInfo.cs
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
+C:\Users\andy_\Desktop\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\ref\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.Form1.resources
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.csproj.GenerateResource.cache
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\refint\WinFormsAppPractica1.dll
+C:\Users\andy_\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\U\SOFTWARE\Compu Cientifica round 2\Programas COmpu CIentifica\Graficador\WinFormsAppPractica1\WinFormsAppPractica1\obj\Debug\net6.0-windows\WinFormsAppPractica1.pdb
