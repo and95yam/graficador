@@ -169,6 +169,38 @@ namespace Graficador
         }
 
 
+        public void Interferencia3D2(Bitmap vectorPixel)
+        {
+
+            cVector3D v3d = new cVector3D();
+            double x, y, p, d, m, w, v;
+            double d1, p1;
+            x = -8;
+            m = 0.4;
+            w = 3;
+            v = 9.8;
+            do
+            {
+                y = -6;
+                do
+                {
+                    v3d.x0 = x;
+                    v3d.y0 = y;
+                    v3d.color0 = Color.Silver;
+                    d = (Math.Sqrt((Math.Pow((x + 0), 2)) + (Math.Pow((y - 3), 2))));
+                    d1 = (Math.Sqrt((Math.Pow((x + 0), 2)) + (Math.Pow((y + 3), 2))));
+                    p = w * (d - v * t);
+                    p1 = w * (d1 - v * t);
+                    v3d.z0 = m * Math.Sin(p) + m * Math.Sin(p1);
+                    v3d.Encender(vectorPixel);
+
+                    y = y + 0.05;
+                } while (y <= 6);
+                x = x + 0.05;
+            } while (x <= 8);
+        }
+
+
 
     }
 }

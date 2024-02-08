@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="cCirculo.cs" />
+    <Compile Include="cCuerda.cs" />
     <Compile Include="cCurva.cs" />
     <Compile Include="cCurva2.cs" />
     <Compile Include="cCurva3.cs" />

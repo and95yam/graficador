@@ -80,6 +80,9 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.button37 = new System.Windows.Forms.Button();
+            this.button38 = new System.Windows.Forms.Button();
+            this.button39 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.fondo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -520,7 +523,7 @@
             // 
             this.button36.Location = new System.Drawing.Point(618, 210);
             this.button36.Name = "button36";
-            this.button36.Size = new System.Drawing.Size(84, 23);
+            this.button36.Size = new System.Drawing.Size(84, 52);
             this.button36.TabIndex = 46;
             this.button36.Text = "Onda 3D Animada";
             this.button36.UseVisualStyleBackColor = true;
@@ -579,12 +582,45 @@
             this.label7.TabIndex = 52;
             this.label7.Text = "Z";
             // 
+            // button37
+            // 
+            this.button37.Location = new System.Drawing.Point(721, 210);
+            this.button37.Name = "button37";
+            this.button37.Size = new System.Drawing.Size(84, 23);
+            this.button37.TabIndex = 53;
+            this.button37.Text = "2 Ondas 3D ";
+            this.button37.UseVisualStyleBackColor = true;
+            this.button37.Click += new System.EventHandler(this.button37_Click);
+            // 
+            // button38
+            // 
+            this.button38.Location = new System.Drawing.Point(721, 239);
+            this.button38.Name = "button38";
+            this.button38.Size = new System.Drawing.Size(84, 23);
+            this.button38.TabIndex = 54;
+            this.button38.Text = "Cuerda";
+            this.button38.UseVisualStyleBackColor = true;
+            this.button38.Click += new System.EventHandler(this.button38_Click);
+            // 
+            // button39
+            // 
+            this.button39.Location = new System.Drawing.Point(820, 210);
+            this.button39.Name = "button39";
+            this.button39.Size = new System.Drawing.Size(84, 52);
+            this.button39.TabIndex = 55;
+            this.button39.Text = "Cuerda Animada";
+            this.button39.UseVisualStyleBackColor = true;
+            this.button39.Click += new System.EventHandler(this.button39_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(1189, 529);
+            this.Controls.Add(this.button39);
+            this.Controls.Add(this.button38);
+            this.Controls.Add(this.button37);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -699,6 +735,9 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button button37;
+        private System.Windows.Forms.Button button38;
+        private System.Windows.Forms.Button button39;
     }
 }
 

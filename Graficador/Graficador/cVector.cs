@@ -27,6 +27,13 @@ namespace Graficador
 
         public cVector() { }
 
+        public cVector(double x0, double y0, Color color0)
+        {
+            this.x0 = x0;
+            this.y0 = y0;
+            this.color0 = color0;
+        }
+
         public virtual void Encender(Bitmap pixel)
         {
             cFuncion funcion = new cFuncion();

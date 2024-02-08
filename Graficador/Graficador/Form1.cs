@@ -838,6 +838,56 @@ namespace Graficador
         {
 
         }
+
+        private void button37_Click(object sender, EventArgs e)
+        {
+            Bitmap pixel = new Bitmap(600, 500);
+
+            cOnda onda = new cOnda();
+
+            onda.Interferencia3D2(pixel);
+            fondo.Image = pixel;
+
+        }
+
+        private void button38_Click(object sender, EventArgs e)
+        {
+            Bitmap pixelvector = new Bitmap(600, 500);
+
+            cCuerda cuerda = new cCuerda();
+
+            cuerda.color0 = Color.Red;
+           
+            cuerda.GraficarC(pixel);
+
+            fondo.Image = pixel;
+            fondo.BackColor = Color.Black;
+        }
+
+        private void button39_Click(object sender, EventArgs e)
+        {
+            cCuerda cv = new cCuerda();
+
+            double t = 0;
+
+
+            do
+            {
+                cv.color0 = Color.Green;
+                cv.GraficarC(pixel);
+               fondo.Image = pixel;
+                Refresh();
+               
+                pixel = new Bitmap(600, 500);
+               
+                Thread.Sleep(20);
+                cv.t = t;
+                t += 0.500;
+
+                
+
+            } while (t <= 2 * Math.PI);
+        }
     }
     
 }
